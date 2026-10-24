@@ -1,0 +1,11 @@
+Date,Account_Code,Account_Description,Transaction_ID,Description,Debit,Credit,Balance
+2026-10-01,1010,Cash and Cash Equivalents,TXN-2026-001,Opening Cash Balance Transfer,50000.0,0.0,50000.0
+2026-10-02,1200,Accounts Receivable,TXN-2026-002,Invoice INV-1044 - Acme Corp,12500.0,0.0,62500.0
+2026-10-05,5010,Office Supplies Expense,TXN-2026-003,Purchased stationery items,450.0,0.0,62950.0
+2026-10-08,2100,Accounts Payable,TXN-2026-004,Vendor Payment - Dell Supply Co,3200.0,0.0,59750.0
+2026-10-10,4010,Sales Revenue,TXN-2026-005,Consulting Services Rendered,0.0,15000.0,44750.0
+2026-10-12,1510,Prepaid Insurance,TXN-2026-006,Annual Liability Policy Renewal,2400.0,0.0,47150.0
+2026-10-15,5020,Rent Expense,TXN-2026-007,Monthly Office Rent Q4,4500.0,0.0,51650.0
+2026-10-18,1010,Cash and Cash Equivalents,TXN-2026-008,Customer Payment Received - Acme Corp,12500.0,0.0,64150.0
+2026-10-20,2200,Accrued Payroll,TXN-2026-009,Bi-weekly Payroll Accrual,0.0,18500.0,45650.0
+2026-10-22,5050,Utility Expense,TXN-2026-010,Electricity & Water Bill Q3,850.0,0.0,46500.0

@@ -68,18 +68,4 @@ To bridge this gap for high-value business roles where data privacy and determin
    ```bash
    streamlit run app.py
    ```
-Use code with caution.
 
-✅ What to Do Next
-
-Now that your project documentation reads like it was designed by an experienced systems architect, stage your updated file and execute your final push commands:
-bash
-# Stage the clean documentation update
-git add README.md
-
-# Commit the changes
-git commit -m "docs: rewrite README to outline core architectural design and safety guardrails"
-
-# Push everything live to your public repository branch
-git push -u origin main
-Use code with caution.
